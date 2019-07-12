@@ -10,7 +10,7 @@ $ docker run --rm paiz0/docker-curl -fsSL https://www.google.com/
 ## Tags
 
 * `paiz0/docker-curl:latest`: based on `alpine:latest`
-* `paiz0/docker-curl:1.0.0`: based on `alpine:3.10.1`
+* `paiz0/docker-curl:1.0.1`: based on `alpine:3.10.1`
 
 ## License
 
