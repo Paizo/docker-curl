@@ -1,3 +1,5 @@
+# docker-curl [![Docker Automated build](https://img.shields.io/docker/build/paiz0/docker-curl.svg)](https://hub.docker.com/r/paiz0/docker-curl/)
+
 # docker-curl
 Alpine-based image with just curl
 
@@ -10,7 +12,7 @@ $ docker run --rm paiz0/docker-curl -fsSL https://www.google.com/
 ## Tags
 
 * `paiz0/docker-curl:latest`: based on `alpine:latest`
-* `paiz0/docker-curl:1.0.1`: based on `alpine:3.10.1`
+* `paiz0/docker-curl:1.0.0`: based on `alpine:3.10.1`
 
 ## License
 
