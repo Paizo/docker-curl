@@ -1,6 +1,6 @@
-# docker-curl [![Docker Automated build](https://img.shields.io/docker/build/paiz0/docker-curl.svg)](https://hub.docker.com/r/paiz0/docker-curl/)
+# docker-curl [![Docker Automated build](https://img.shields.io/docker/cloud/build/paiz0/docker-curl.svg)](https://hub.docker.com/r/paiz0/docker-curl/)
 
-# docker-curl
+
 Alpine-based image with just curl
 
 ## Usage
